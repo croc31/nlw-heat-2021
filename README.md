@@ -1,14 +1,14 @@
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/croc31/move.it.svg?color=5863d2">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/croc31/nlw-heat-2021.svg?color=5863d2">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/croc31/move.it.svg?color=5863d2">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/croc31/nlw-heat-2021.svg?color=5863d2">
   
-  <a href="https://github.com/croc31/move.it/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/croc31/move.it?color=5863d2">
+  <a href="https://github.com/croc31/nlw-heat-2021/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/croc31/nlw-heat-2021?color=5863d2">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/croc31/move.it?color=5863d2">
+  <img alt="GitHub" src="https://img.shields.io/github/license/croc31/nlw-heat-2021?color=5863d2">
 </p>
 
 <p align="center">
